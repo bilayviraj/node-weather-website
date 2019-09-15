@@ -1,6 +1,3 @@
-console.log('Client side javascipt loaded!');
-
-
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
 const pLocation = document.getElementById('location');
