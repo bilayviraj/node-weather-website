@@ -63,11 +63,10 @@ button {
 #currently {
     font-weight: 600;
     padding: 6px;
-    margin-left: 150px;
 }
 
 #low-high {
-    margin-left: 156px;
+    margin-left: 6px;
 }
 
 #summary {
