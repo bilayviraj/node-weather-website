@@ -53,3 +53,28 @@ button {
     color: white;
     padding: 8px;
 }
+
+#container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+#currently {
+    font-weight: 600;
+    padding: 6px;
+    margin-left: 150px;
+}
+
+#low-high {
+    margin-left: 156px;
+}
+
+#summary {
+    font-family: Lato,sans-serif;
+    line-height: 1.3em;
+    font-size: 28px;
+    font-weight: 300;
+    color: #9c8e8e;
+    padding: 6px;
+}
